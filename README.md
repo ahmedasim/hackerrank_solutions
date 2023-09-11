@@ -8,6 +8,6 @@ We always welcome contributions from the community!
 <b>Please note that this directory is continually updated with new hacker rank solutions using JAVA on a weekly basis.</b>
 
 <b>Contact me :</b><br>
-Linked in : <b>https://www.linkedin.com/in/asim-ahmed-48390959/</b> <br>
+Linked in : <b>https://www.linkedin.com/in/ahmedasim01/</b> <br>
 Email : <b>sendtoasimoff@gmail.com</b>
 Hacker Rank : https://www.hackerrank.com/ahmedasim01
