@@ -1,7 +1,21 @@
 package basic;
 
 import java.util.Scanner;
-
+/*
+ * Input Sample 
+  
+java 100
+cpp 65
+python 50
+  
+ * Output
+ 
+================================
+java           100 
+cpp            065 
+python         050 
+================================
+ * */
 public class PrintFSample {
 
 	public static void main(String[] args) {
