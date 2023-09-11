@@ -5,7 +5,7 @@ Welcome to this repository, where you'll discover elegant solutions to problems 
 
 We always welcome contributions from the community!
 
-<b>Please note that this directory is continually updated with new Java solutions to various questions on a weekly basis.</b>
+<b>Please note that this directory is continually updated with new hacker rank solutions using JAVA on a weekly basis.</b>
 
 <b>Contact me :</b><br>
 Linked in : <b>https://www.linkedin.com/in/asim-ahmed-48390959/</b> <br>
